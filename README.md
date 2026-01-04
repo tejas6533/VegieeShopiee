@@ -83,3 +83,13 @@ This project is private and not licensed for public use.
 ## Version
 
 0.1.0
+
+<img width="1909" height="774" alt="Screenshot 2026-01-04 113736" src="https://github.com/user-attachments/assets/3a73c56c-e743-4cde-95be-9aa6567c1818" />
+
+
+<img width="1894" height="739" alt="Screenshot 2026-01-04 113817" src="https://github.com/user-attachments/assets/694b28f3-17e0-4c3b-bc80-5bf6c94c4562" />
+
+
+
+
+
