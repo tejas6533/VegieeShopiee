@@ -59,9 +59,6 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <hr className=' my-6'/>
-            <div className='m-auto text-center'>
-                <p className='font-medium' style={{color: '#ffffff80'}}><strong style={{color: '#ffb524'}}>&copy;Vegetables Ecommerce, </strong>All Right Reserved by Rodi Shammout</p>
             </div>
         </div>
     )
