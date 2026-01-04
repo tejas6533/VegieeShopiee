@@ -89,6 +89,7 @@ This project is private and not licensed for public use.
 
 <img width="1894" height="739" alt="Screenshot 2026-01-04 113817" src="https://github.com/user-attachments/assets/694b28f3-17e0-4c3b-bc80-5bf6c94c4562" />
 
+<img width="1781" height="854" alt="Screenshot 2026-01-04 114718" src="https://github.com/user-attachments/assets/7c7771d0-d87e-46d6-903a-e0699ae99b3e" />
 
 
 
